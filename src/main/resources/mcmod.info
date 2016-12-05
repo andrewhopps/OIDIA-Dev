@@ -1,0 +1,16 @@
+[
+{
+  "modid": "OIDIA",
+  "name": "Oops I did it again!",
+  "description": "A simple mod to recoup wasted resources on accidental crafting!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Andrew Hopps"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
